@@ -33,7 +33,7 @@ Obstacle avoidance algorithm for an autonomous boat (ROS2)
   * 현재 위치 업데이트 및 웨이포인트 도달 여부 확인
 * `lidar_callback()`
 
-  * LiDAR 데이터 전처리 → 장애물 탐지 → 회피 경로 계산 호출 (핵심)
+  * LiDAR 데이터 전처리 → 장애물 탐지 → 회피 경로 계산 호출
 * `calculate_path()`
 
   * 장애물 개수에 따라 단일/복수 장애물 회피 전략 분기
@@ -62,11 +62,15 @@ Obstacle avoidance algorithm for an autonomous boat (ROS2)
 
 ## 6. 시연 영상
 
-* 교내대회 장애물 회피 시연 영상: 링크 추가 예정 (Naver MYBOX)
+## 6. 시연 영상
+
+* [교내대회 장애물 회피 시연 영상 (Naver MYBOX)](https://mybox.naver.com/main/web/my/viewer/3472595643618491720:18582608?resourceKey=d2pkZ2hjanN3bzEwfDEwNjcyMjg4MXxEfDA&fileResourceKey=d2pkZ2hjanN3bzEwfDM0NzI1OTU2NDM2MTg0OTE3MjB8Rnww&downloadable=true&editable=true)
 
 ## 7. 관련 이미지
 
-* 캡처 이미지 추가 예정
+* 교내대회 장애물 회피 시연 사진
+  
+![교내대회 장애물 회피 시연 사진](IMG_1042.jpg)
 
 ## 8. 결과 및 회고
 
