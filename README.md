@@ -62,8 +62,6 @@ Obstacle avoidance algorithm for an autonomous boat (ROS2)
 
 ## 6. 시연 영상
 
-## 6. 시연 영상
-
 * [교내대회 장애물 회피 시연 영상 (Naver MYBOX)](https://mybox.naver.com/main/web/my/viewer/3472595643618491720:18582608?resourceKey=d2pkZ2hjanN3bzEwfDEwNjcyMjg4MXxEfDA&fileResourceKey=d2pkZ2hjanN3bzEwfDM0NzI1OTU2NDM2MTg0OTE3MjB8Rnww&downloadable=true&editable=true)
 
 ## 7. 관련 이미지
