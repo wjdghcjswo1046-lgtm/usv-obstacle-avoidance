@@ -1,5 +1,4 @@
-# usv-obstacle-avoidance
-Obstacle avoidance algorithm for an autonomous boat (ROS2)
+
 # 자율운항 보트 장애물 회피 알고리즘 (ROS2)
 
 교내 자율운항선박 경진대회에서 사용한 장애물 회피 알고리즘 코드입니다.
@@ -123,7 +122,7 @@ Obstacle avoidance algorithm for an autonomous boat (ROS2)
 
 ## 6. 시연 영상
 
-* [교내대회 장애물 회피 시연 영상 (Naver MYBOX)](https://mybox.naver.com/main/web/my/viewer/3472595643618491720:18582608?resourceKey=d2pkZ2hjanN3bzEwfDEwNjcyMjg4MXxEfDA&fileResourceKey=d2pkZ2hjanN3bzEwfDM0NzI1OTU2NDM2MTg0OTE3MjB8Rnww&downloadable=true&editable=true)
+* [교내대회 장애물 회피 시연 영상](https://naver.me/5OlxY5tV)
 
 ## 7. 관련 이미지
 
